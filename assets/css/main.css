@@ -534,6 +534,7 @@ START: Skincare Essentials CSS
   background-color: #FFEBE0;
   clip-path: polygon(85% 0, 100% 50%, 85% 100%, 0% 100%, 15% 50%, 0% 0%);
   font-family: var(--sds-ff-heading);
+  text-align: center;
   margin-left: -20px;
 }
 
